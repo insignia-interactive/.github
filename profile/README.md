@@ -39,13 +39,13 @@
   <img align="left" alt="csharp" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer">
-  <img align="left" alt="unity" width="40px" style="padding-right:10px;" src="">
+  <img align="left" alt="unity" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/insignia-interactive/.github/main/profile/assets/unity.svg">
 </a>
 <a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer">
-  <img align="left" alt="unrealengine" width="40px" style="padding-right:10px;" src="">
+  <img align="left" alt="unrealengine" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/insignia-interactive/.github/main/profile/assets/unreal.svg">
 </a>
 <a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img align="left" alt="github" width="40px" style="padding-right:10px;" src="">
+  <img align="left" alt="github" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/insignia-interactive/.github/main/profile/assets/github.svg">
 </a>
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer">
   <img align="left" alt="visual studio" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
@@ -54,7 +54,7 @@
   <img align="left" alt="jetbrains" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg">
 </a>
 <a href="https://www.adobe.com/" target="_blank" rel="noreferrer">
-  <img align="left" alt="adobe" width="40px" style="padding-right:10px;" src="">
+  <img align="left" alt="adobe" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/insignia-interactive/.github/main/profile/assets/adobecc.svg">
 </a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
   <img align="left" alt="blender" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
@@ -63,7 +63,7 @@
   <img align="left" alt="maya" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg">
 </a>
 <a href="https://www.autodesk.co.uk/products/3ds-max/overview?term=1-YEAR&tab=subscription" target="_blank" rel="noreferrer">
-  <img align="left" alt="3dsmax" width="40px" style="padding-right:10px;" src="">
+  <img align="left" alt="3dsmax" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/insignia-interactive/.github/main/profile/assets/3dsmax.svg">
 </a>
 <br>
 <br>
