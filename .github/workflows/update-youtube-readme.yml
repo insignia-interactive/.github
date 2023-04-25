@@ -14,4 +14,4 @@ jobs:
           comment_tag_name: YOUTUBE-CARDS
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           show_duration: true
-          readme_path: ./profile/README.md
+          readme_path: profile/README.md
