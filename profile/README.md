@@ -76,7 +76,12 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![FEP Gameplay Showcase](https://ytcards.demolab.com/?id=q9r2tm8YaOY&title=FEP+Gameplay+Showcase&lang=en&timestamp=1653068497&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=817 "FEP Gameplay Showcase")](https://www.youtube.com/watch?v=q9r2tm8YaOY)
+[![Movement Shooter Devlog | Week 7 | Weapon System, Level Design & More Music](https://ytcards.demolab.com/?id=f9zFL_z1bK4&title=Movement+Shooter+Devlog+%7C+Week+7+%7C+Weapon+System%2C+Level+Design+%26+More+Music&lang=en&timestamp=1652309684&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=202 "Movement Shooter Devlog | Week 7 | Weapon System, Level Design & More Music")](https://www.youtube.com/watch?v=f9zFL_z1bK4)
+[![Movement Shooter Devlog | Week 4-6 | A Recap...](https://ytcards.demolab.com/?id=d8XduYy543A&title=Movement+Shooter+Devlog+%7C+Week+4-6+%7C+A+Recap...&lang=en&timestamp=1651608875&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=271 "Movement Shooter Devlog | Week 4-6 | A Recap...")](https://www.youtube.com/watch?v=d8XduYy543A)
+[![Movement Shooter Devlog | Week 3 | Weapons, Level Design & Music](https://ytcards.demolab.com/?id=rROA4fqdrgU&title=Movement+Shooter+Devlog+%7C+Week+3+%7C+Weapons%2C+Level+Design+%26+Music&lang=en&timestamp=1649244730&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=224 "Movement Shooter Devlog | Week 3 | Weapons, Level Design & Music")](https://www.youtube.com/watch?v=rROA4fqdrgU)
+[![Movement Shooter Devlog | Week 2 | IK & Level Design](https://ytcards.demolab.com/?id=MrQpknkydBQ&title=Movement+Shooter+Devlog+%7C+Week+2+%7C+IK+%26+Level+Design&lang=en&timestamp=1648496713&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=265 "Movement Shooter Devlog | Week 2 | IK & Level Design")](https://www.youtube.com/watch?v=MrQpknkydBQ)
+[![Movement Shooter Devlog | Week 1 | Our Introduction](https://ytcards.demolab.com/?id=3LujVx_vrEQ&title=Movement+Shooter+Devlog+%7C+Week+1+%7C+Our+Introduction&lang=en&timestamp=1647966431&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=159 "Movement Shooter Devlog | Week 1 | Our Introduction")](https://www.youtube.com/watch?v=3LujVx_vrEQ)
 <!-- END YOUTUBE-CARDS -->
 
 <a href="http://youtube.com/@insigniainteractive" target="_blank" rel="noreferrer">
