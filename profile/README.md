@@ -73,6 +73,18 @@
 
 <!-- Begin Third Section --->
 
+### 📂 Favourite Projects
+
+<a href="https://github.com/insignia-interactive/Tools" target="_blank" rel="noreferrer">
+  <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=insignia-interactive&repo=Tools&bg_color=20232A&text_color=ffffff&title_color=00868b&icon_color=00868b" />
+</a>
+
+<!-- End Third Section --->
+
+#
+
+<!-- Begin Fourth Section --->
+
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -89,4 +101,4 @@
 </a>
 <br>
 
-<!-- End Third Section --->
+<!-- End Fourth Section --->
